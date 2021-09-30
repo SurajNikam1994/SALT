@@ -51,4 +51,4 @@ salt-key -a salt-minion-001 -y
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[APACHE-2.0](https://choosealicense.com/licenses/apache-2.0/)
