@@ -27,7 +27,7 @@ above with their current state. For more information about a specific
 VM, run `vagrant status NAME`.
 ```
 ```powershell
-vagrant <ssh Machinename>
+vagrant ssh <Machinename>
 ```
 This Vagrantfile will create 3 VMs, a saltmaster and two minion nodes. The minion nodes are optional and can be removed if you need minions to be run only from containers which is quite easier.
 
